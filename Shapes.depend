@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1428049344 source:e:\ashmita_semesterii\data structures programs\shapes\circle.cpp
+	<iostream>
+	<sstream>
+	"Circle.h"
+
+1428049137 e:\ashmita_semesterii\data structures programs\shapes\circle.h
+	<iostream>
+	"Shape.h"
+
+1428031388 e:\ashmita_semesterii\data structures programs\shapes\shape.h
+	<iostream>
+
+1428049447 source:e:\ashmita_semesterii\data structures programs\shapes\main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Square.h"
+
+1428031389 e:\ashmita_semesterii\data structures programs\shapes\rectangle.h
+	<iostream>
+	"Shape.h"
+
+1428049363 source:e:\ashmita_semesterii\data structures programs\shapes\rectangle.cpp
+	<iostream>
+	<sstream>
+	"Rectangle.h"
+
+1428049444 source:e:\ashmita_semesterii\data structures programs\shapes\shape.cpp
+	<iostream>
+	"Shape.h"
+
+1428049137 source:e:\ashmita_semesterii\data structures programs\shapes\square.cpp
+	<iostream>
+	<sstream>
+	"Square.h"
+	"Rectangle.h"
+
+1428049059 e:\ashmita_semesterii\data structures programs\shapes\square.h
+	<iostream>
+	"Rectangle.h"
+
